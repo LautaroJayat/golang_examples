@@ -24,11 +24,11 @@ func main(){
 	}
 
 	fmt.Println("\nIm going to sleep now");
-	fmt.Println("\n");
+	fmt.Println();
 
 	time.Sleep(time.Second * 5)
 	fmt.Println("\nHey Guys, here from main function ,how are you doing!");
-	fmt.Println("\n");
+	fmt.Println();
 
 	for j:=0; j<10; j++{
 		c <- "Hi to every rutine, please respond"
