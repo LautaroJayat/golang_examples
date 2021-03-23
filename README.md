@@ -10,3 +10,7 @@ This are just a few examples on cool Golang stuff
    
    [Writing to a file](https://github.com/LautaroJayat/golang_examples/tree/master/wait_groups/writing_to_file)
 
+## [Patterns](https://github.com/LautaroJayat/golang_examples/tree/master/patterns)   
+   
+   [Pipeline](https://github.com/LautaroJayat/golang_examples/tree/master/patterns/pipeline)
+    
