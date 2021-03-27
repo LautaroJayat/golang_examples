@@ -13,4 +13,7 @@ This are just a few examples on cool Golang stuff
 ## [Patterns](https://github.com/LautaroJayat/golang_examples/tree/master/patterns)   
    
    [Pipeline](https://github.com/LautaroJayat/golang_examples/tree/master/patterns/pipeline)
-    
+
+## [Silly but Clever Stuff](https://github.com/LautaroJayat/golang_examples/tree/master/silly_but_clever_stuff)   
+
+   [Unused Vars](https://github.com/LautaroJayat/golang_examples/tree/master/silly_but_clever_stuff/unused_var) 
